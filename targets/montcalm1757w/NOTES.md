@@ -1,6 +1,6 @@
 # Montcalm’s War code (“code W”) and the cipher texts of 4 November 1757
 
-Status: in progress (folder only, no page)
+Status: in progress (page drafted for review: docs/montcalm1757w.html)
 
 Class: read in part (key recovered based on adjacent plaintext). The partial key is rebuilt from the period interlinear decipherment, and the French prose is that decipherment, transcribed and normalized. This is a source-and-key contribution, not an independent solution.
 

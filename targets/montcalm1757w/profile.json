@@ -28,6 +28,10 @@
         "by": "llm from images",
         "source": "Digitized manuscript or archival copy; source links in NOTES.md",
         "image_quality": "fair"
+      },
+      "places": {
+        "from": "Québec",
+        "to": "Versailles"
       }
     },
     {
@@ -55,6 +59,10 @@
         "by": "llm from images",
         "source": "Digitized manuscript or archival copy; source links in NOTES.md",
         "image_quality": "fair"
+      },
+      "places": {
+        "from": "Québec",
+        "to": "Versailles"
       }
     }
   ],

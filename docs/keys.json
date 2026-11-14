@@ -5166,6 +5166,14 @@
    "by": "Army Ministry (Yamagata); described by Satoshi Tomokiyo (Cryptiana)",
    "year": 1877,
    "note": "Each table pairs the iroha (44 signs) with the iroha reversed, shifted two places per table; the table number is written in clear at the head of the message. Tables in JACAR C09084568800; rules in C08052370500. Cryptiana meijiarmy.htm."
+  },
+  {
+   "id": "k-montcalm-w1757",
+   "label": "Montcalm's War Department numerical code (code W): index of 318 values from the 1757 pages",
+   "kind": "rebuilt here",
+   "by": "Andrew Beling, with AI agents, from the decipherment of the time",
+   "year": 1757,
+   "note": "Numbers 6-900 for letters, syllables, words and names, no alphabetical order. Indexed from the interlinear decipherment of the cipher passages of SHD GR A1 3457 pieces 179-180 (LAC copy, reel C-12578); conflicting values kept; two numbers with unsettled digits kept out. Not the key sheet of the time."
   }
  ],
  "links": [
@@ -8360,6 +8368,12 @@
    "target": "kagoshima1879",
    "how": "read unchanged",
    "note": "Tables 4, 1 and 6 reproduce the cipher of the three drafts from the clerk's plaintext (95/96, 45/47, 132/138 signs); the text itself is the clerk's plaintext on the leaves."
+  },
+  {
+   "key": "k-montcalm-w1757",
+   "target": "montcalm1757w",
+   "how": "rebuilt from",
+   "note": "indexed from the decipherment written between the lines of the same pages; the reading is that decipherment, not a decoding with the index"
   }
  ],
  "sources": [
@@ -9732,6 +9746,10 @@
   {
    "source": "s-cyphersolver",
    "key": "k-inspecteurs1870"
+  },
+  {
+   "source": "s-cyphersolver",
+   "key": "k-montcalm-w1757"
   }
  ],
  "unlinked": {
@@ -11078,6 +11096,11 @@
    "key": "k-extra3-murguia1914",
    "target": "gonzalez1913",
    "note": "the Clave Extra 3 key applied to the runs gives no Spanish; a different system"
+  },
+  {
+   "key": "k-vaudreuil1757",
+   "target": "montcalm1757w",
+   "note": "a different code: of the 243 numbers present in both, none has the same value"
   }
  ]
 }
