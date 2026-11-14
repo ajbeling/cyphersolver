@@ -5166,6 +5166,23 @@
    "by": "Army Ministry (Yamagata); described by Satoshi Tomokiyo (Cryptiana)",
    "year": 1877,
    "note": "Each table pairs the iroha (44 signs) with the iroha reversed, shifted two places per table; the table number is written in clear at the head of the message. Tables in JACAR C09084568800; rules in C08052370500. Cryptiana meijiarmy.htm."
+  },
+  {
+   "id": "k-kerlerec-pusch2008",
+   "label": "Kerlerec's code of 1755-1762, the decoding table rebuilt by Donald E. Pusch (547 of 700 entries)",
+   "kind": "scholar's key",
+   "by": "Donald E. Pusch",
+   "year": 1755,
+   "found": 2008,
+   "note": "Two-part numerical nomenclator used by the governor of Louisiana 1755-1762, rebuilt from the Marine ministry's interlinear decipherments of 30 despatches; Louisiana History 49 (2008), Table 2, pp. 477-480. Not reproduced in the repository; 124 of its values are cited in targets/kerlerec1759/key/pusch_values_used.tsv."
+  },
+  {
+   "id": "k-kerlerec-gloss1759",
+   "label": "Kerlerec's code: 164 values from the Marine clerks' decipherments of nos. 194 (1759) and 228 (1760)",
+   "kind": "rebuilt here",
+   "by": "Andrew Beling, with AI agents, from the decipherments of the time",
+   "year": 1759,
+   "note": "452 code-and-word pairs with folio and line (ANOM COL C13A 41 ff. 51r-52v, C13A 42 f. 48r), the clerks' running gloss segmented with Pusch's table as the aligner's dictionary, so not independent of it; 156 values agree with Pusch, 5 spelling variants, 2 differ, 1 new. Held-out test on C13A 42 ff. 48v-49r: 96.0% with Pusch's values added, 78.3% alone."
   }
  ],
  "links": [
@@ -8360,6 +8377,18 @@
    "target": "kagoshima1879",
    "how": "read unchanged",
    "note": "Tables 4, 1 and 6 reproduce the cipher of the three drafts from the clerk's plaintext (95/96, 45/47, 132/138 signs); the text itself is the clerk's plaintext on the leaves."
+  },
+  {
+   "key": "k-kerlerec-gloss1759",
+   "target": "kerlerec1759",
+   "how": "rebuilt from",
+   "note": "values taken from the ministry clerks' decipherments of two other despatches of the same correspondence; decodes about 80% of the groups of nos. 206, 207 and 215"
+  },
+  {
+   "key": "k-kerlerec-pusch2008",
+   "target": "kerlerec1759",
+   "how": "partial",
+   "note": "124 of Pusch's values used for codes with no clerk's pair (220 of 1,068 groups); his table also used to segment the clerks' glosses"
   }
  ],
  "sources": [
@@ -9732,6 +9761,10 @@
   {
    "source": "s-cyphersolver",
    "key": "k-inspecteurs1870"
+  },
+  {
+   "source": "s-cyphersolver",
+   "key": "k-kerlerec-gloss1759"
   }
  ],
  "unlinked": {

@@ -1,6 +1,6 @@
 # Kerlérec to the Marine minister, 1759: three cipher despatches without a period decipherment (nos. 206, 207, 215)
 
-Status: in progress (no site page yet; target files and checks only)
+Status: in progress (page drafted for review: docs/kerlerec1759.html)
 
 Class: read in part (read with known key). The key is the Marine ministry clerks' own decipherments of two other
 Kerlérec despatches, cut into code-and-word pairs with the help of Pusch's printed code book, and completed from that
@@ -77,14 +77,14 @@ inference.
   Bull, taken at the Balize on 13 June 1759) set Rochemore's party against the governor; an officers' petition signed
   among others by d'Erneville, Grondel, d'Hauterive and d'Orville called Bull a spy and asked for the Balize command;
   Grondel, a captain in the Swiss troops, was on bad terms with his colonel Volant; the major Simarre de Belle-Isle
-  backed Rochemore (Marc de Villiers du Terrage, *Les dernières années de la Louisiane française*, 1904, pp. 94-100).
+  backed Rochemore (Marc de Villiers du Terrage, *Les dernières années de la Louisiane française*, 1904, pp. 92-100).
 - Established. A "feuille au Roi" of 9 October 1759 lists the persons Kerlérec complained of (Rochemore, his secretary
   Bellot, Belle-Isle, Destréhan, Fontenette, d'Erneville, d'Orville, Mandeville, Reggio) with the penalties approved;
-  Rochemore was recalled, and in 1762 Belle-Isle and d'Erneville were cashiered and Kerlérec ordered Bossu, Grandchamp,
+  Rochemore was dismissed, and in 1762 Belle-Isle and d'Erneville were cashiered and Kerlérec ordered Bossu, Grandchamp,
   Grondel, Rocheblave, Broutin, Mandeville and d'Hauterive back to France (Villiers 1904, pp. 140-142).
 - Established. The Balize, built to guard the mouth of the Mississippi, had been left behind by the shifting mouth:
   in a letter quoted by Villiers, Kerlérec wrote that the island of the Balize, once a league offshore, was now a league
-  and a half inland and the post useless (Villiers 1904, pp. 47-48).
+  and a half inland and the post useless (Villiers 1904, p. 47).
 - Established. Louisiana lacked trade goods and powder through the war and its Indian alliances depended on the goods
   (Pusch 2008 p. 475; Villiers 1904 p. 108, quoting no. 228 of 1760 on the Cherokee war and the English passage to the
   Choctaw); in February 1759 Pitt sent Amherst authority to attack Louisiana (Pusch p. 475 n. 32).
@@ -151,13 +151,9 @@ captures and reran the test with identical numbers; its nine corrections are app
 
 ## Remaining gaps
 
-- Groups lost in the binding gutter at the line ends of ff. 81v, 97v and 111v (at least 18, 2 and 7) - blocker:
-  needs-physical-access; no second copy in C13A 41-42; the Library of Congress microfilm (Louisiana Colonial Records
-  Project, reel 48) or the leaves themselves would restore them.
-- Codes 107, 209 and 591 in no. 206 have no value in the clerks' pairs or in Pusch's table - blocker: open-codes;
-  context suggests *surpris*, *ô(ter)* and *retour*/*bord* (`readings/DOUBTS.md`); left as holes.
-- The group 300 at the end of no. 206 f. 81v l. 8 (small, cramped, fully visible) may be the numeral 300 or a code
-  group - blocker: open-codes; numerals and codes cannot be told apart by form in this series.
+- Groups lost in the binding gutter at the line ends of ff. 81v, 97v and 111v (at least 18, 2 and 7) - blocker: needs-physical-access; no second copy in C13A 41-42; the Library of Congress microfilm (Louisiana Colonial Records Project, reel 48) or the leaves themselves would restore them.
+- Codes 107, 209 and 591 in no. 206 have no value in the clerks' pairs or in Pusch's table - blocker: open-codes; context suggests *surpris*, *ô(ter)* and *retour*/*bord* (`readings/DOUBTS.md`); left as holes.
+- The group 300 at the end of no. 206 f. 81v l. 8 (small, cramped, fully visible) may be the numeral 300 or a code group - blocker: open-codes; numerals and codes cannot be told apart by form in this series.
 
 ## Escalation
 
@@ -166,4 +162,4 @@ captures and reran the test with identical numbers; its nine corrections are app
 - [x] known-keys: Pusch 2008 Table 2 compared code by code with the clerks' pairs and used for the remaining codes.
 - [ ] print: Pusch 2008, Villiers 1904 and the MPA vol. 5 calendar checked; Gourmelon 2003/2004 not read.
 - [x] key-rebuild: 452 group pairs, 164 codes, from the clerks' glosses; held-out test passed.
-- [ ] retry: the three unknown codes and the gutter losses need another source (microfilm or the leaves).
+- [x] retry: every doubtful group re-read on the image in the second pass and decoded again with the full key (readings/DOUBTS.md, readings/RECONCILE.md); the three unknown codes and the gutter losses need another source (microfilm or the leaves).
