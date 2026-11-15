@@ -5176,6 +5176,14 @@
    "note": "Each table pairs the iroha (44 signs) with the iroha reversed, shifted two places per table; the table number is written in clear at the head of the message. Tables in JACAR C09084568800; rules in C08052370500. Cryptiana meijiarmy.htm."
   },
   {
+   "id": "k-montauti-systemB",
+   "label": "Grand Duke of Tuscany's two-sign letter cipher with an eleventh sign (System B), rebuilt from the recipient's interlines in Penn Codex 534",
+   "kind": "rebuilt here",
+   "by": "Andrew Beling, with AI agents, from the decipherments of the time",
+   "year": 1690,
+   "note": "22 groups for 20 letters (key v2) from the interlinear decipherments of Codex 534 ff. 14r and 15r (1690), plus w6 = i (f. 396v) and 91 = u (f. 21r); ww = o and 62 = q by context only. Held-out test on f. 21r: 76 of 92 groups (82.6%), 200 shuffled keys at most 35.9%. Every value with folio and line in targets/montauti1692/key/key_entries.tsv."
+  },
+  {
    "id": "k-anover1610",
    "label": "Philip III's cipher with the Count of Añover, 1610-1611: partial table rebuilt from the glossed sibling letters I 242,33, 42, 47 and 48",
    "kind": "rebuilt here",
@@ -8384,6 +8392,12 @@
    "note": "Tables 4, 1 and 6 reproduce the cipher of the three drafts from the clerk's plaintext (95/96, 45/47, 132/138 signs); the text itself is the clerk's plaintext on the leaves."
   },
   {
+   "key": "k-montauti-systemB",
+   "target": "montauti1692",
+   "how": "rebuilt from",
+   "note": "values taken from the recipient's interlinear decipherments of the secretariat's letters in Codex 534; applied to Cosimo III's autograph runs in Codex 533 and to bare passages of 1694"
+  },
+  {
    "key": "k-anover1610",
    "target": "anover1610",
    "how": "rebuilt from",
@@ -9764,6 +9778,10 @@
   {
    "source": "s-cyphersolver",
    "key": "k-inspecteurs1870"
+  },
+  {
+   "source": "s-cyphersolver",
+   "key": "k-montauti-systemB"
   },
   {
    "source": "s-cyphersolver",

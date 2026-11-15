@@ -1,0 +1,492 @@
+{
+ "slug": "montauti1692",
+ "anchor": "letter",
+ "title": "Codex 533 ff. 1r-1v, the seven cipher runs of the first letter",
+ "caption": "Cosimo III to Montauti, undated (after 1691), Penn Ms. Codex 533 ff. 1r-1v, decoded group by group with key v3 and the two context-only values. Clear words as read by the independent verifier (doubtful words with ?). Groups marked uncertain rest on an emended or reinterpreted digit or on a context-only value (ww = o, 62 = q). Two letters are written wrong by Cosimo: the a ending 'permission-' and the e in 'figlea'.",
+ "unit": "two-sign groups",
+ "key_note": "Values: targets/montauti1692/key/key_v3.json (from the recipient's interlines in Codex 534) and key/key_v3_context.json (context only). w = the eleventh sign.",
+ "tokens": [
+  {
+   "g": "",
+   "p": "Mi fa sapere",
+   "cls": "plain"
+  },
+  {
+   "g": "55",
+   "p": "l",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "21",
+   "p": "e",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "55",
+   "p": "l",
+   "cls": ""
+  },
+  {
+   "g": "6w",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "68",
+   "p": "t",
+   "cls": "unc"
+  },
+  {
+   "g": "41",
+   "p": "o",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "60",
+   "p": "p",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "55",
+   "p": "l",
+   "cls": ""
+  },
+  {
+   "g": "w2",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "6w",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "5w",
+   "p": "n",
+   "cls": ""
+  },
+  {
+   "g": "ww",
+   "p": "o",
+   "cls": "unc"
+  },
+  {
+   "g": "",
+   "p": "[del? un? amico / del Marchese?] ch[e]? li fu scritto [a Vienna? / giunse?] che la",
+   "cls": "plain"
+  },
+  {
+   "g": "96",
+   "p": "m",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "w2",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "4w",
+   "p": "f",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "50",
+   "p": "g",
+   "cls": ""
+  },
+  {
+   "g": "55",
+   "p": "l",
+   "cls": ""
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "56",
+   "p": "m",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "92",
+   "p": "h",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "91",
+   "p": "v",
+   "cls": ""
+  },
+  {
+   "g": "21",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "scritto per domandarmi la",
+   "cls": "plain"
+  },
+  {
+   "g": "60",
+   "p": "p",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "21",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "56",
+   "p": "m",
+   "cls": ""
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "06",
+   "p": "s",
+   "cls": "unc"
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "ww",
+   "p": "o",
+   "cls": "unc"
+  },
+  {
+   "g": "5w",
+   "p": "n",
+   "cls": ""
+  },
+  {
+   "g": "w2",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "[di? / e?]",
+   "cls": "plain"
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "6w",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "ww",
+   "p": "o",
+   "cls": "unc"
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "5w",
+   "p": "n",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "w4",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "62",
+   "p": "q",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "91",
+   "p": "u",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "e",
+   "cls": "plain"
+  },
+  {
+   "g": "66",
+   "p": "s",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "w4",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "60",
+   "p": "p",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "66",
+   "p": "s",
+   "cls": ""
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "dal? [suo? / mio? / uno?]",
+   "cls": "plain"
+  },
+  {
+   "g": "96",
+   "p": "m",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "64",
+   "p": "r",
+   "cls": ""
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "6w",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "ww",
+   "p": "o",
+   "cls": "unc"
+  },
+  {
+   "g": "",
+   "p": "onde V.S. vede? bene? [...] ci fanno vergogna, [...] e ci offen[...] [che? / nella?] reputatione e",
+   "cls": "plain"
+  },
+  {
+   "g": "96",
+   "p": "m",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "w2",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "21",
+   "p": "e",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "6w",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "46",
+   "p": "d",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "w6",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "56",
+   "p": "m",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "11",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "4w",
+   "p": "f",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "31",
+   "p": "i",
+   "cls": ""
+  },
+  {
+   "g": "50",
+   "p": "g",
+   "cls": ""
+  },
+  {
+   "g": "55",
+   "p": "l",
+   "cls": ""
+  },
+  {
+   "g": "w4",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "w2",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "et? [...]",
+   "cls": "plain"
+  }
+ ]
+}

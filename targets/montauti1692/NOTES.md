@@ -1,6 +1,6 @@
 # montauti1692: Cosimo III's autograph letter cipher in his letters to Montauti (Penn Ms. Codex 533), key rebuilt from the interlined despatches of Codex 534
 
-Status: in progress (folder only, no page; contributed by Andrew Beling, with AI agents)
+Status: in progress (page drafted for review: docs/montauti1692.html; contributed by Andrew Beling, with AI agents)
 
 Holder: University of Pennsylvania Libraries, Kislak Center for Special Collections. Ms. Codex 533 (36 autograph letters
 of Cosimo III, Grand Duke of Tuscany, to his envoy Anton Francesco Montauti, 80 leaves); Oversize Ms. Codex 534 (279
