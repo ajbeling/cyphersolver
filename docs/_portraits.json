@@ -6126,5 +6126,15 @@
    "credit": "Wikimedia Commons, public domain",
    "file": "File:Lorenzo de Medici.jpg"
   }
+ ],
+ "humphreys1799": [
+  {
+   "role": "recipient",
+   "name": "Timothy Pickering",
+   "img": "portrait_timothy-pickering.jpg",
+   "what": "Painted portrait",
+   "credit": "Wikimedia Commons, public domain",
+   "file": "File:PORTRAIT OF TIMOTHY PICKERING, 3RD SECRETARY OF STATE PRESIDENT GEORGE WASHINGTON AND JOHN ADAMS.jpg"
+  }
  ]
 }

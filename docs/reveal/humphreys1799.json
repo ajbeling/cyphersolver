@@ -1,0 +1,730 @@
+{
+ "slug": "humphreys1799",
+ "anchor": "louisiana",
+ "title": "No. 214, frame 0417: the Louisiana passages",
+ "caption": "Humphreys to Pickering, Madrid, 6 August 1799 (NARA M31 roll 5 frame 0417), decoded group by group with the table frozen before the held-out test. Clear text is Humphreys's own. Groups marked uncertain carry a context value, not a table value; groups marked unknown have no value.",
+ "unit": "code groups",
+ "key_note": "Values: targets/humphreys1799/key/table_frozen_v1.tsv; context values from key/context_values.tsv (marked uncertain). Punctuation groups (1527 stop) read as nothing.",
+ "tokens": [
+  {
+   "g": "",
+   "p": "I told him I was not ignorant of the French intrigues on that subject and that I had good reason to believe",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "1409",
+   "p": "that",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "517",
+   "p": "design",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1490",
+   "p": "re",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "1021",
+   "p": "co",
+   "cls": ""
+  },
+  {
+   "g": "1389",
+   "p": "ver",
+   "cls": ""
+  },
+  {
+   "g": "1122",
+   "p": "ing",
+   "cls": ""
+  },
+  {
+   "g": "649",
+   "p": "lo",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "543",
+   "p": "u",
+   "cls": ""
+  },
+  {
+   "g": "436",
+   "p": "I",
+   "cls": ""
+  },
+  {
+   "g": "1466",
+   "p": "si",
+   "cls": ""
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "892",
+   "p": "n",
+   "cls": ""
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "229",
+   "p": "had",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "561",
+   "p": "never",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "641",
+   "p": "be",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "160",
+   "p": "en",
+   "cls": ""
+  },
+  {
+   "g": "1497",
+   "p": "re",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "197",
+   "p": "?",
+   "cls": "unk"
+  },
+  {
+   "g": "1355",
+   "p": "?",
+   "cls": "unk"
+  },
+  {
+   "g": "204",
+   "p": "ish",
+   "cls": ""
+  },
+  {
+   "g": "1205",
+   "p": "ed",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "I added that I had understood the",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "123[?]",
+   "p": "ces",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "650",
+   "p": "sion",
+   "cls": ""
+  },
+  {
+   "g": "495",
+   "p": "was",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "536",
+   "p": "in",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "1405",
+   "p": "ser",
+   "cls": ""
+  },
+  {
+   "g": "879",
+   "p": "ted",
+   "cls": ""
+  },
+  {
+   "g": "556",
+   "p": "in",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1412",
+   "p": "origin",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "301",
+   "p": "al",
+   "cls": ""
+  },
+  {
+   "g": "906",
+   "p": "pro",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "186",
+   "p": "ject",
+   "cls": ""
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "244",
+   "p": "trea",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "592",
+   "p": "y",
+   "cls": ""
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1519",
+   "p": "Basl",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "8",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "and that I was acquainted with the sentiments of each of the Ambassadors of France who had resided here since the peace. I knew that",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "1095",
+   "p": "tru",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "772",
+   "p": "gue",
+   "cls": ""
+  },
+  {
+   "g": "1567",
+   "p": "t",
+   "cls": ""
+  },
+  {
+   "g": "229",
+   "p": "had",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1497",
+   "p": "re",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "22",
+   "p": "?",
+   "cls": "unk"
+  },
+  {
+   "g": "747",
+   "p": "d",
+   "cls": ""
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "55",
+   "p": "negociation",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1533",
+   "p": "with",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1044",
+   "p": "sa",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "1267",
+   "p": "ve",
+   "cls": ""
+  },
+  {
+   "g": "734",
+   "p": "dra",
+   "cls": "unc"
+  },
+  {
+   "g": "1527",
+   "p": ".",
+   "cls": "null"
+  },
+  {
+   "g": "",
+   "p": "I could not moreover forbear mentioning that Guillemardet had declared to me",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "1099",
+   "p": "he",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "229",
+   "p": "had",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "314",
+   "p": "?",
+   "cls": "unk",
+   "w": 1
+  },
+  {
+   "g": "747",
+   "p": "d",
+   "cls": ""
+  },
+  {
+   "g": "365",
+   "p": "against",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "912",
+   "p": "ra",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "[?]46",
+   "p": "ti",
+   "cls": "unc"
+  },
+  {
+   "g": "1524",
+   "p": "fi",
+   "cls": ""
+  },
+  {
+   "g": "822",
+   "p": "ca",
+   "cls": ""
+  },
+  {
+   "g": "234",
+   "p": "tion",
+   "cls": ""
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "994",
+   "p": "the",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "344",
+   "p": "trea",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "592",
+   "p": "y",
+   "cls": ""
+  },
+  {
+   "g": "532",
+   "p": "for",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "295",
+   "p": "wa",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1572",
+   "p": "nt",
+   "cls": ""
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1409",
+   "p": "that",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1239",
+   "p": "ces",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "[?]50",
+   "p": "sion",
+   "cls": "unc"
+  },
+  {
+   "g": "",
+   "p": "which he said",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "1103",
+   "p": "would",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1467",
+   "p": "have",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "522",
+   "p": "been",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "139",
+   "p": "made",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "215",
+   "p": "but",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "532",
+   "p": "for",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "755",
+   "p": "tre",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "1587",
+   "p": "ch",
+   "cls": "unc"
+  },
+  {
+   "g": "8",
+   "p": "e",
+   "cls": ""
+  },
+  {
+   "g": "489",
+   "p": "ry",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "as France had relinquished so much to Spain without an equivalent. ... Mr. de Urquijo said, that having been engaged with Mr. Iriarte in the negotiation of that Treaty, he could affirm there were no secret articles of any kind of importance in it, and that",
+   "cls": "plain",
+   "w": 1
+  },
+  {
+   "g": "209",
+   "p": "so",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "471",
+   "p": "long",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "162",
+   "p": "as",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1099",
+   "p": "he",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "[?]97",
+   "p": "re",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "1392",
+   "p": "mai",
+   "cls": ""
+  },
+  {
+   "g": "376",
+   "p": "ned",
+   "cls": ""
+  },
+  {
+   "g": "556",
+   "p": "in",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1524",
+   "p": "fi",
+   "cls": ""
+  },
+  {
+   "g": "1459",
+   "p": "ce",
+   "cls": "unc"
+  },
+  {
+   "g": "436",
+   "p": "I",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "368",
+   "p": "might",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "1119",
+   "p": "rest",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "162",
+   "p": "as",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "568",
+   "p": "sure",
+   "cls": "unc"
+  },
+  {
+   "g": "747",
+   "p": "d",
+   "cls": ""
+  },
+  {
+   "g": "1555",
+   "p": "France",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "[?]93",
+   "p": "should",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "561",
+   "p": "never",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "1439",
+   "p": "get",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "629",
+   "p": "posses",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "284",
+   "p": "ion",
+   "cls": ""
+  },
+  {
+   "g": "240",
+   "p": "of",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "649",
+   "p": "lo",
+   "cls": "",
+   "w": 1
+  },
+  {
+   "g": "543",
+   "p": "u",
+   "cls": ""
+  },
+  {
+   "g": "436",
+   "p": "I",
+   "cls": ""
+  },
+  {
+   "g": "1466",
+   "p": "si",
+   "cls": ""
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "892",
+   "p": "n",
+   "cls": ""
+  },
+  {
+   "g": "925",
+   "p": "a",
+   "cls": ""
+  },
+  {
+   "g": "",
+   "p": "I enclose in No. 11 the correspondence respecting Andrew Clark and Thomas Draper ...",
+   "cls": "plain",
+   "w": 1
+  }
+ ]
+}

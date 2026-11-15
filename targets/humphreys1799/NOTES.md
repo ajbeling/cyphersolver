@@ -1,6 +1,6 @@
 # David Humphreys to Pickering, Madrid, 1799: the coded parts of despatches Nos. 188 and 214
 
-Status: in progress (folder only, no site page in this commit; target files and checks only)
+Status: in progress (page drafted for review: docs/humphreys1799.html, without images)
 
 Class: read in part (key recovered based on adjacent plaintext). The key is a table of Humphreys's code rebuilt from
 the State Department clerks' decipherments of his other despatches and from printed decoded texts, frozen and tested

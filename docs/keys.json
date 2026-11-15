@@ -5176,6 +5176,14 @@
    "note": "Each table pairs the iroha (44 signs) with the iroha reversed, shifted two places per table; the table number is written in clear at the head of the message. Tables in JACAR C09084568800; rules in C08052370500. Cryptiana meijiarmy.htm."
   },
   {
+   "id": "k-humphreys-code8",
+   "label": "David Humphreys's code (Boyd's Code No. 8, the = 994), 686 groups rebuilt from the State Department clerks' decipherments",
+   "kind": "rebuilt here",
+   "by": "Andrew Beling, with AI agents, from the decipherments of the time",
+   "year": 1799,
+   "note": "One-part scrambled code of about 1,600 elements, made by Jefferson in 1785 and used by Humphreys at Lisbon and Madrid 1791-1801. 3,368 pairs with roll, frame and line (NARA M43 roll 2, M31 roll 6) from the clerks' interlinear decipherments and from the Jefferson and Madison Papers' decoded texts; frozen (sha256 2c2358a4...) and tested on the held-out despatch No. 262: 129 of 135 groups. The Jefferson Papers' own partial reconstruction is unpublished and was not used."
+  },
+  {
    "id": "k-anover1610",
    "label": "Philip III's cipher with the Count of Añover, 1610-1611: partial table rebuilt from the glossed sibling letters I 242,33, 42, 47 and 48",
    "kind": "rebuilt here",
@@ -8384,6 +8392,12 @@
    "note": "Tables 4, 1 and 6 reproduce the cipher of the three drafts from the clerk's plaintext (95/96, 45/47, 132/138 signs); the text itself is the clerk's plaintext on the leaves."
   },
   {
+   "key": "k-humphreys-code8",
+   "target": "humphreys1799",
+   "how": "rebuilt from",
+   "note": "table from the clerks' decipherments of other despatches in the same code; reads 357 of the 424 groups of Nos. 188, 214 and the April 1799 sentence"
+  },
+  {
    "key": "k-anover1610",
    "target": "anover1610",
    "how": "rebuilt from",
@@ -9767,6 +9781,10 @@
   },
   {
    "source": "s-cyphersolver",
+   "key": "k-humphreys-code8"
+  },
+  {
+   "source": "s-cyphersolver",
    "key": "k-anover1610"
   }
  ],
@@ -11113,6 +11131,16 @@
    "key": "k-extra3-murguia1914",
    "target": "gonzalez1913",
    "note": "the Clave Extra 3 key applied to the runs gives no Spanish; a different system"
+  },
+  {
+   "key": "k-king769",
+   "target": "humphreys1799",
+   "note": "same numbers compared at every offset: not a relative (14 Nov 2026)"
+  },
+  {
+   "key": "k-legation-code16",
+   "target": "humphreys1799",
+   "note": "same numbers compared at every offset, and 30 well-attested values: not a relative (14 Nov 2026)"
   }
  ]
 }
