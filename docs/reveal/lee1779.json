@@ -1,0 +1,238 @@
+{
+ "slug": "lee1779",
+ "anchor": "reading",
+ "title": "The letter of 21 May 1779: groups 84-128",
+ "caption": "The code groups of Arthur Lee's letter of 21 May 1779 to Richard Henry Lee, as entered in his letter book (images 0041-0042), looked up in Entick's New Spelling Dictionary, London 1776 (targets/lee1779/decoding.tsv). Doubtful groups are marked; two groups whose digits the letter book loses are read as the received copy writes them, and contempt, where the two copies differ, is marked doubtful; the clear text between them is left out.",
+ "unit": "code groups",
+ "key_note": "Entick 1776: page, column, entry from the top of the column; persons from the list of Christian names, pp. 454-455.",
+ "tokens": [
+  {
+   "g": "348a24",
+   "p": "Spanish",
+   "w": 1
+  },
+  {
+   "g": "108a9",
+   "p": "court",
+   "w": 1
+  },
+  {
+   "g": "117a18",
+   "p": "declare",
+   "w": 1
+  },
+  {
+   "g": "336a34-s",
+   "p": "ships",
+   "w": 1
+  },
+  {
+   "g": "228a6",
+   "p": "line",
+   "w": 1
+  },
+  {
+   "g": "162a7-s",
+   "p": "finances",
+   "w": 1
+  },
+  {
+   "g": "314a28",
+   "p": "resolution",
+   "w": 1
+  },
+  {
+   "g": "236b18?(238)",
+   "p": "Marquis",
+   "w": 1
+  },
+  {
+   "g": "315b35",
+   "p": "return",
+   "w": 1
+  },
+  {
+   "g": "170a24",
+   "p": "French",
+   "w": 1
+  },
+  {
+   "g": "384b26-s",
+   "p": "troops?",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "43a23",
+   "p": "alliance",
+   "w": 1
+  },
+  {
+   "g": "189a26",
+   "p": "here",
+   "w": 1
+  },
+  {
+   "g": "131a11",
+   "p": "disposition",
+   "w": 1
+  },
+  {
+   "g": "384b26-s",
+   "p": "troops?",
+   "cls": "unc",
+   "w": 1
+  },
+  {
+   "g": "265a30",
+   "p": "our",
+   "w": 1
+  },
+  {
+   "g": "107b30",
+   "p": "country",
+   "w": 1
+  },
+  {
+   "g": "102a32",
+   "p": "continent",
+   "w": 1
+  },
+  {
+   "g": "314b37-d?(36-d)",
+   "p": "restrained",
+   "w": 1
+  },
+  {
+   "g": "166b7",
+   "p": "footing",
+   "w": 1
+  },
+  {
+   "g": "382b28",
+   "p": "treaty",
+   "w": 1
+  },
+  {
+   "g": "150b33",
+   "p": "European",
+   "w": 1
+  },
+  {
+   "g": "28?a9-s",
+   "p": "politicians",
+   "w": 1
+  },
+  {
+   "g": "265a30",
+   "p": "our",
+   "w": 1
+  },
+  {
+   "g": "40a3-s",
+   "p": "affairs",
+   "w": 1
+  },
+  {
+   "g": "454b14",
+   "p": "Benjamin",
+   "w": 1
+  },
+  {
+   "g": "332b28",
+   "p": "sent",
+   "w": 1
+  },
+  {
+   "g": "238b30-es?",
+   "p": "meannesses",
+   "w": 1
+  },
+  {
+   "g": "312b22",
+   "p": "representatives",
+   "w": 1
+  },
+  {
+   "g": "100b36?(108)",
+   "p": "contempt?",
+   "w": 1,
+   "cls": "unc"
+  },
+  {
+   "g": "312b20-ed",
+   "p": "represented",
+   "w": 1
+  },
+  {
+   "g": "80b1",
+   "p": "cause",
+   "w": 1
+  },
+  {
+   "g": "333b21",
+   "p": "servant",
+   "w": 1
+  },
+  {
+   "g": "108a9",
+   "p": "court",
+   "w": 1
+  },
+  {
+   "g": "107b30",
+   "p": "country",
+   "w": 1
+  },
+  {
+   "g": "189a26",
+   "p": "here",
+   "w": 1
+  },
+  {
+   "g": "454b?14",
+   "p": "Benjamin",
+   "w": 1
+  },
+  {
+   "g": "115b38",
+   "p": "Deane",
+   "w": 1
+  },
+  {
+   "g": "218b3",
+   "p": "junto",
+   "w": 1
+  },
+  {
+   "g": "260b1",
+   "p": "old",
+   "w": 1
+  },
+  {
+   "g": "134a6",
+   "p": "Doctor",
+   "w": 1
+  },
+  {
+   "g": "455b11",
+   "p": "John",
+   "w": 1
+  },
+  {
+   "g": "454a5-s",
+   "p": "Adams",
+   "w": 1
+  },
+  {
+   "g": "189a26",
+   "p": "here",
+   "w": 1
+  },
+  {
+   "g": "455?a27",
+   "p": "Samuel",
+   "w": 1
+  }
+ ]
+}

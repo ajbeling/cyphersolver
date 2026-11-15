@@ -1,6 +1,6 @@
 # Arthur Lee to Richard Henry Lee, Paris, 1779-1780: six letters in Entick's dictionary code, read in part
 
-Status: in progress (folder only, no site page in this commit; target files and checks only)
+Status: in progress (page drafted for review: docs/lee1779.html)
 
 Class: read in part (read after matching with key from external sources). Andrew Beling, with AI agents,
 14 November 2026. The code system and the book were known before us (Burnett 1917, Weber 1979, Tomokiyo), and

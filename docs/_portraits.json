@@ -6126,5 +6126,23 @@
    "credit": "Wikimedia Commons, public domain",
    "file": "File:Lorenzo de Medici.jpg"
   }
+ ],
+ "lee1779": [
+  {
+   "role": "sender",
+   "name": "Arthur Lee",
+   "img": "portrait_arthur-lee.jpg",
+   "what": "Portrait by John Trumbull, 1790 (Yale University Art Gallery)",
+   "credit": "Wikimedia Commons, public domain",
+   "file": "File:Arthur_Lee_(1740–1792),_LL.D._1781_(cropped).jpg"
+  },
+  {
+   "role": "recipient",
+   "name": "Richard Henry Lee",
+   "img": "portrait_richard-henry-lee.jpg",
+   "what": "Portrait by Charles Willson Peale, c. 1795-1805 (National Portrait Gallery)",
+   "credit": "Wikimedia Commons, public domain",
+   "file": "File:Charles_Willson_Peale_-_Richard_Henry_Lee_-_NPG.74.5_-_National_Portrait_Gallery_(cropped).jpg"
+  }
  ]
 }
